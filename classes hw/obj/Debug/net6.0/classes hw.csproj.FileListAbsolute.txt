@@ -1,0 +1,15 @@
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.csproj.AssemblyReference.cache
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.AssemblyInfoInputs.cache
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.AssemblyInfo.cs
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.csproj.CoreCompileInputs.cache
+C:\Users\magoo\source\repos\classes hw\bin\Debug\net6.0\classes hw.exe
+C:\Users\magoo\source\repos\classes hw\bin\Debug\net6.0\classes hw.deps.json
+C:\Users\magoo\source\repos\classes hw\bin\Debug\net6.0\classes hw.runtimeconfig.json
+C:\Users\magoo\source\repos\classes hw\bin\Debug\net6.0\classes hw.dll
+C:\Users\magoo\source\repos\classes hw\bin\Debug\net6.0\classes hw.pdb
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.dll
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\refint\classes hw.dll
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.pdb
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\classes hw.genruntimeconfig.cache
+C:\Users\magoo\source\repos\classes hw\obj\Debug\net6.0\ref\classes hw.dll

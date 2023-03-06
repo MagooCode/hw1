@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>classes_hw</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\magoo\OneDrive\Рабочий стол\Car.cs" Link="Car.cs" />
+    <Compile Include="C:\Users\magoo\OneDrive\Рабочий стол\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\magoo\OneDrive\Рабочий стол\Vehicle.cs" Link="Vehicle.cs" />
+  </ItemGroup>
+
+</Project>
