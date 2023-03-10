@@ -1,0 +1,15 @@
+C:\Users\magoo\source\repos\10032023\bin\Debug\net6.0\10032023.exe
+C:\Users\magoo\source\repos\10032023\bin\Debug\net6.0\10032023.deps.json
+C:\Users\magoo\source\repos\10032023\bin\Debug\net6.0\10032023.runtimeconfig.json
+C:\Users\magoo\source\repos\10032023\bin\Debug\net6.0\10032023.dll
+C:\Users\magoo\source\repos\10032023\bin\Debug\net6.0\10032023.pdb
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.csproj.AssemblyReference.cache
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.AssemblyInfoInputs.cache
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.AssemblyInfo.cs
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.csproj.CoreCompileInputs.cache
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.dll
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\refint\10032023.dll
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.pdb
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\10032023.genruntimeconfig.cache
+C:\Users\magoo\source\repos\10032023\obj\Debug\net6.0\ref\10032023.dll
